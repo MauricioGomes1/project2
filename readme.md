@@ -1,5 +1,5 @@
 GIT course
 
-Este é um repositório teste
+Este é um repositório testeXXXX
 
 Gostou do curso
